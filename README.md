@@ -6,6 +6,7 @@ This package allows users to program Arduino boards using Python without any dep
 ## Installation
 
 Just copy the `myarduinowithpy` directory into your project.
+'pip install myarduinowithpy'
 
 ## Usage
 
