@@ -28,6 +28,4 @@ try:
         time.sleep(1)                # Wait 1 second
 except KeyboardInterrupt:
     print("Program terminated.")
-=======
-# myarduinowithpy
->>>>>>> a6ca4e833e8f3cdcb9ac41c67b67a53ac3cc9c93
+
