@@ -18,8 +18,7 @@ The tech landscape is constantly evolving, and with it, our ways of interfacing 
 To begin, install the package via pip and start experimenting with your Arduino boards in no time. Detailed documentation and examples are available on [GitHub](https://github.com/mjavadhe/myarduinowithpy).
 
 ## Installation
-```bash
-pip install myarduinowithpy
+`pip install myarduinowithpy`
 
 
 ## Usage
