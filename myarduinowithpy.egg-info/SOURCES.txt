@@ -1,0 +1,12 @@
+MANIFEST.in
+README.md
+setup.py
+myarduinowithpy/__init__.py
+myarduinowithpy/compiler.py
+myarduinowithpy/core.py
+myarduinowithpy/uploader.py
+myarduinowithpy/utils.py
+myarduinowithpy.egg-info/PKG-INFO
+myarduinowithpy.egg-info/SOURCES.txt
+myarduinowithpy.egg-info/dependency_links.txt
+myarduinowithpy.egg-info/top_level.txt

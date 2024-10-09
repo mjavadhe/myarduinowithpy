@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: myarduinowithpy
+Version: 1.0
+Summary: A Python package to program and control Arduino without external dependencies.
+Home-page: https://github.com/mjavadhe/arduinopy
+Author: Mohamadjavad Heydarpanah
+Author-email: mjavad.heydarpanah@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
