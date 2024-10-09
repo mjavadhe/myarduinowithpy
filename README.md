@@ -10,7 +10,7 @@ Just copy the `myarduinowithpy` directory into your project.
 ## Usage
 
 ```python
-from arduinopy.core import Arduino
+from myarduinowithpy.core import Arduino
 
 # Set the serial port to your Arduino
 port = '/dev/ttyUSB0'  # Change to your Arduino port
